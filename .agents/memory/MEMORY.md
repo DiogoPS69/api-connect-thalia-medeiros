@@ -1,0 +1,1 @@
+- [OpenAPI e Zod](openapi-zod-compatibility.md) — neste workspace, mantenha schemas OpenAPI compatíveis com Zod v3 e evite colisões entre nomes de operações e componentes.
